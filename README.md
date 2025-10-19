@@ -19,4 +19,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cagatayyuksel&" alt="cagatayyuksel" /></p>
 
-![snake gif](https://github.com/CagatayYuksel/CagatayYuksel/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
